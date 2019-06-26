@@ -1,0 +1,7 @@
+.ColorBoxContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex: 1;
+    flex-wrap: wrap;
+}
